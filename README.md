@@ -1,4 +1,4 @@
-# nsenih
+
 E-Commerce Data Transaction Analysis
 
 By analysing customer purchase and product sales history, we can group products and customers into groups that behave similarly, and make data-driven business decisions that can improve a wide range of inventory and sales key performance indicators 
